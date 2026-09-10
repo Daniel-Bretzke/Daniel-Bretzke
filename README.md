@@ -1,5 +1,5 @@
 # **Olá, me chamo Daniel**
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Daniel-Bretzke&langs_count=4&theme=yeblu)](https://github-stats-extended.vercel.app/api/top-langs?username=Daniel-Bretzke&langs_count=4&theme=yeblu)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Daniel-Bretzke&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Daniel-Bretzke&langs_count=4&theme=dark)
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
