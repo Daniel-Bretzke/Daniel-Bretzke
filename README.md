@@ -23,46 +23,46 @@
 </table>
 
 <div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="47" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
   <img width="10" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="47" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />
   <img width="10" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="47" alt="css logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css logo" />
   <img width="10" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="47" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo" />
   <img width="10" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="47" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo" />
   <img width="10" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="47" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
   <img width="10" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="47" alt="vscode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo" />
   <img width="10" />
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="47" alt="c logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="45" alt="c logo" />
   <img width="10" />
   
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="47" alt="mysql logo" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="45" alt="mysql logo" />
   <img width="10" />
   
-  <img src="https://skillicons.dev/icons?i=github" height="47" alt="github logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo" />
   <img width="10" />
   
-  <img src="https://cdn.simpleicons.org/git/F05032" height="47" alt="git logo" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="45" alt="git logo" />
   <img width="10" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" height="47" alt="processing logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" height="45" alt="processing logo" />
   <img width="10" />
   
-  <img src="https://skillicons.dev/icons?i=arduino" height="47" alt="arduino logo" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="45" alt="arduino logo" />
   <img width="10" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="47" alt="php logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php logo" />
 </div>
 
 ##
