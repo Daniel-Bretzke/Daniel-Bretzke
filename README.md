@@ -22,14 +22,47 @@
   </tr>
 </table>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Daniel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Daniel-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="Daniel-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Daniel-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="49" alt="javascript logo" />
+  <img width="13" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="49" alt="html5 logo" />
+  <img width="13" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="49" alt="css logo" />
+  <img width="13" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="49" alt="react logo" />
+  <img width="13" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="49" alt="nodejs logo" />
+  <img width="13" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="49" alt="python logo" />
+  <img width="13" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="49" alt="vscode logo" />
+  <img width="13" />
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="49" alt="c logo" />
+  <img width="13" />
+  
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="49" alt="mysql logo" />
+  <img width="13" />
+  
+  <img src="https://skillicons.dev/icons?i=github" height="49" alt="github logo" />
+  <img width="13" />
+  
+  <img src="https://cdn.simpleicons.org/git/F05032" height="49" alt="git logo" />
+  <img width="13" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" height="49" alt="processing logo" />
+  <img width="13" />
+  
+  <img src="https://skillicons.dev/icons?i=arduino" height="49" alt="arduino logo" />
+  <img width="13" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="49" alt="php logo" />
 </div>
 
 ##
